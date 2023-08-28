@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ## CUENTA CREADA EXCLUSIVAMENTE PARA TALLERES DE CIBERINTELIGENCIA OSINT
 <H2> TALLERES DESARROLLADOS POR MANUEL BOT </H2>
-https://twitter.com/ManuelBot59
+ENLACE DEL CREADOR DEL LABORATORIO: https://twitter.com/ManuelBot59
